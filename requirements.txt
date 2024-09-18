@@ -1,6 +1,2 @@
-django
-gunicorn
-whitenoise
-psycopg2-binary
-requests
-urllib3
+Username: dhafin.putra
+Password: 8OU0t39PtLoeR7eOOFTM4dkYl_JnOkmP
