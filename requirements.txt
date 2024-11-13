@@ -1,2 +1,3 @@
 Username: dhafin.putra
 Password: 8OU0t39PtLoeR7eOOFTM4dkYl_JnOkmP
+django-cors-headers
